@@ -4,9 +4,17 @@ Download list of old archived JS URLs from Archive.org that are not available on
 # Usage
     python3 archive-downloader.py --urls-file urls.txt --timeout 5.0 --sleep 1.0 --block-sleep 30.0
 
+## Get List of Files from a Domain
+
+    https://web.archive.org/cdx/search/cdx?url=*.example.com/*&output=txt&fl=original&collapse=urlkey
+
 ## Example of urls.txt
 
     https://example.com/some_old_js/that/is_not_served/by/server/anymore.js
+    https://example.com/some_old_js/that/is_not_served/by/server/anymore2.js
+    .
+    .
+    .
 
 # Help
 
