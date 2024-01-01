@@ -16,6 +16,26 @@ Download list of old archived JS URLs from Archive.org that are not available on
     .
     .
 
+## Output Example
+
+    Created file: downloads/2024-01-01-15-57/others.js from url: https://statics.REDACTED.com/lib/2.0.31.19/js/others.js
+    Created file: downloads/2024-01-01-15-57/angularmore.js from url: https://statics.REDACTED.com/lib/2.0.31.2/js/angularmore.js
+    Created file: downloads/2024-01-01-15-57/bootstrap.js from url: https://statics.REDACTED.com/lib/2.0.31.2/js/bootstrap.js
+    Created file: downloads/2024-01-01-15-57/jqueryui.js from url: https://statics.REDACTED.com/lib/2.0.31.2/js/jqueryui.js
+    Created file: downloads/2024-01-01-15-57/justangular.js from url: https://statics.REDACTED.com/lib/2.0.31.2/js/justangular.js
+    Created file: downloads/2024-01-01-15-57/justjquery.js from url: https://statics.REDACTED.com/lib/2.0.31.2/js/justjquery.js
+    Created file: downloads/2024-01-01-15-57/others.js from url: https://statics.REDACTED.com/lib/2.0.31.2/js/others.js
+    Created file: downloads/2024-01-01-15-57/angularmore.js from url: https://statics.REDACTED.com/lib/2.0.31.20/js/angularmore.js
+    Created file: downloads/2024-01-01-15-57/bootstrap.js from url: https://statics.REDACTED.com/lib/2.0.31.20/js/bootstrap.js
+    Created file: downloads/2024-01-01-15-57/jqueryui.js from url: https://statics.REDACTED.com/lib/2.0.31.20/js/jqueryui.js
+    Created file: downloads/2024-01-01-15-57/justangular.js from url: https://statics.REDACTED.com/lib/2.0.31.20/js/justangular.js
+    Created file: downloads/2024-01-01-15-57/justjquery.js from url: https://statics.REDACTED.com/lib/2.0.31.20/js/justjquery.js
+    Created file: downloads/2024-01-01-15-57/others.js from url: https://statics.REDACTED.com/lib/2.0.31.20/js/others.js
+    .
+    .
+    .
+
+
 # Help
 
     python3 archive-downloader.py --help
